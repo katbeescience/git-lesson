@@ -5,3 +5,5 @@
 A sample repository for learning git with Rstudio
 
 Team: Kathryn Busby and Justin Johnson.
+
+Best local fauna: my dog, Jasper!
